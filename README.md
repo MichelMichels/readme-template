@@ -7,15 +7,15 @@
 This project achieves X and Y.
 
 <!-- omit in toc -->
-## Table of contents
+## 📚 Table of contents
 
-- [Prerequisites](#prerequisites)
-- [Getting started](#getting-started)
-- [Examples](#examples)
-- [Credits](#credits)
+- [🛠️ Prerequisites](#️-prerequisites)
+- [🚀 Getting started](#-getting-started)
+- [🤔 Examples](#-examples)
+- [🫂 Credits](#-credits)
 
 
-## Prerequisites
+## 🛠️ Prerequisites
 
 <sup>[(back to top)][back-to-top]</sup>
 
@@ -23,15 +23,15 @@ All dependencies for this project:
 
 - [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
-## Getting started
+## 🚀 Getting started
 
 <sup>[(back to top)][back-to-top]</sup>
 
-## Examples 
+## 🤔 Examples 
 
 <sup>[(back to top)][back-to-top]</sup>
 
-## Credits
+## 🫂 Credits
 
 <sup>[(back to top)][back-to-top]</sup>
 
