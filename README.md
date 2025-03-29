@@ -2,7 +2,6 @@
 # Project name
 
 [![NuGet Version](https://img.shields.io/nuget/v/{package-id})][nuget-url]
-[![.NET](https://github.com/MichelMichels/{repo-slug}/actions/workflows/dotnet.yml/badge.svg)](https://github.com/MichelMichels/{repo-slug}/actions/workflows/dotnet.yml)
 
 This project achieves X and Y.
 
@@ -18,8 +17,6 @@ This project achieves X and Y.
 ## 🛠️ Prerequisites
 
 <sup>[(back to top)][back-to-top]</sup>
-
-All dependencies for this project:
 
 - [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
